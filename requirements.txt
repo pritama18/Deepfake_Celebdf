@@ -1,0 +1,13 @@
+tensorflow~=2.18.0
+opencv-python~=4.8.0.74
+opencv-python-headless
+numpy~=2.0.2
+scikit-learn~=1.2.0
+matplotlib~=3.7.1
+dlib
+face_recognition
+
+Pillow~=10.0.0
+streamlit~=1.32.1
+keras~=3.7.0
+seaborn~=0.13.2
